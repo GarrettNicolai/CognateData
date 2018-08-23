@@ -1,1 +1,7 @@
-This repository contains two datasets for use in low-resource cognate generation.  One is for generation between English and German, and the other is for generation between Russian and Polish.  They were both collected from Wikipedia.
+This data is released as part of our submission to SIGMORPHON 2018.
+The original data was obtained from:
+https://en.wiktionary.org/wiki/Appendix:List\_of\_German\_cognates\_with\_English
+and
+https://en.wiktionary.org/wiki/Appendix:List\_of\_Proto-Slavic\_nouns
+for the DE-EN and RU-PL sets, respectively.
+
