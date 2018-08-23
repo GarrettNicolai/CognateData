@@ -1,2 +1,1 @@
-# CognateData
-Data for low-resource cognate generation
+This repository contains two datasets for use in low-resource cognate generation.  One is for generation between English and German, and the other is for generation between Russian and Polish.  They were both collected from Wikipedia.
